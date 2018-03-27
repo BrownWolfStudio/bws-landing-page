@@ -1,0 +1,19 @@
+.homepage, .homepage:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.toastStyle {
+    float: right;
+    position:fixed;
+    z-index: 1;
+}
+
+.toastInnerStyle {
+    margin: 10px 0px;
+    width: 250px;
+}
